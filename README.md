@@ -1,2 +1,4 @@
 # hello-world
-1st git hub proj
+
+Hi GitHub peoples!
+Add the 3rd line.
